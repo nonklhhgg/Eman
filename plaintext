@@ -1,0 +1,6 @@
+word_explorer/
+│
+├── main.py
+├── word_utils.py
+├── README.md
+└── requirements.txt
